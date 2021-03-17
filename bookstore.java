@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Bookstore{
     static Scanner myscanner = new Scanner(System.in);
-    static String[] book ={"Java","C/C++","Pythone"};
+    static String[] book ={"Java","C","Python"};
     static final double StudentDiscount = 0.3;
     static final double TeacherDiscount = 0.4;
     static final double AlienDiscount = 0.0;
